@@ -22,3 +22,18 @@ nasm -v
 
 mkdir ~/Desktop/AssemblyTest && cd ~/Desktop/AssemblyTest
 
+
+---
+
+## 🚀 Next Steps (Tutorial 2 Preview)
+- Explore more advanced Assembly operations (loops, arrays, conditions).  
+- Study how **Irvine Library** is used for Windows-based examples.  
+- Learn how to print numerical values instead of text only.  
+- Continue versioning each tutorial in this repository for future reference.
+
+---
+
+## 🧩 Author Note
+> This repository is part of my academic journey at **Cracow University of Economics (UEK)**.  
+> It documents each tutorial in the **Computer Systems** course to track my progress and technical growth.
+
