@@ -1,0 +1,17 @@
+# Ignore compiled object files
+*.o
+
+# Ignore executable binaries
+hello
+sum_array
+
+# macOS system files
+.DS_Store
+
+# Temporary build or cache folders
+__pycache__/
+*.out
+*.log
+
+# Backup or temp files
+*~
